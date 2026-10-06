@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/nav_header.xml",
+        "source": "com.gravassist.app-main-50:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/item_log_entry.xml",
+        "source": "com.gravassist.app-main-50:/layout/item_log_entry.xml"
+    },
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/fragment_logs.xml",
+        "source": "com.gravassist.app-main-50:/layout/fragment_logs.xml"
+    },
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/fragment_home.xml",
+        "source": "com.gravassist.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/dialog_unlock_code.xml",
+        "source": "com.gravassist.app-main-50:/layout/dialog_unlock_code.xml"
+    },
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.gravassist.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/fragment_usage.xml",
+        "source": "com.gravassist.app-main-50:/layout/fragment_usage.xml"
+    },
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/activity_api_key.xml",
+        "source": "com.gravassist.app-main-50:/layout/activity_api_key.xml"
+    },
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/fragment_settings.xml",
+        "source": "com.gravassist.app-main-50:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/fragment_profile.xml",
+        "source": "com.gravassist.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/fragment_google.xml",
+        "source": "com.gravassist.app-main-50:/layout/fragment_google.xml"
+    },
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/fragment_adb.xml",
+        "source": "com.gravassist.app-main-50:/layout/fragment_adb.xml"
+    },
+    {
+        "merged": "com.gravassist.app-mergeDebugResources-47:/layout/item_chat_message.xml",
+        "source": "com.gravassist.app-main-50:/layout/item_chat_message.xml"
+    }
+]

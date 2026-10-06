@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@android:drawable/ic_menu_today"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="@string/nav_profile" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@android:drawable/ic_menu_preferences"
+            android:title="@string/nav_settings" />
+        <item
+            android:id="@+id/nav_usage"
+            android:icon="@android:drawable/ic_menu_info_details"
+            android:title="@string/nav_usage" />
+        <item
+            android:id="@+id/nav_google"
+            android:icon="@android:drawable/ic_menu_send"
+            android:title="@string/nav_google" />
+        <item
+            android:id="@+id/nav_adb"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="@string/nav_adb" />
+        <item
+            android:id="@+id/nav_logs"
+            android:icon="@android:drawable/ic_menu_recent_history"
+            android:title="@string/nav_logs" />
+    </group>
+</menu>

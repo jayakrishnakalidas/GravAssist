@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gravassist.app-mergeDebugResources-46:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/.gradle/caches/9.8.0/transforms/9d2503d0d42e4d9467d24d3b644d92e7/transformed/appcompat-1.7.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

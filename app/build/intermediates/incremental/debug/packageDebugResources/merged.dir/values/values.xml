@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_light">#A29BFE</color>
+    <color name="accent_primary">#6C5CE7</color>
+    <color name="accent_secondary">#00CEC9</color>
+    <color name="bg_dark">#0F0F1A</color>
+    <color name="black">#FF000000</color>
+    <color name="card_dark">#16213E</color>
+    <color name="chat_ai_bg">#16213E</color>
+    <color name="chat_user_bg">#6C5CE7</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="status_green">#00B894</color>
+    <color name="status_orange">#FDCB6E</color>
+    <color name="status_red">#FF7675</color>
+    <color name="surface_dark">#1A1A2E</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_primary">#F1F2F6</color>
+    <color name="text_secondary">#A4B0BE</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="accessibility_service_description">Enables GravAssist to automate screen touches, text inputs, and app installation tasks on your command.</string>
+    <string name="adb_accessibility_status">Accessibility Service Status</string>
+    <string name="adb_title">ADB &amp; Input Controller</string>
+    <string name="adb_toggle_label">Enable Touch &amp; Input Automation</string>
+    <string name="api_key_hint">e.g. sk-xxxxxxxxxxxxxxxx</string>
+    <string name="api_key_label">API Key</string>
+    <string name="app_name">GravAssist</string>
+    <string name="cancel">Cancel</string>
+    <string name="chat_hint">Ask anything or command your device...</string>
+    <string name="clear_logs">Clear Logs</string>
+    <string name="completion_tokens">Completion Tokens</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="enter_api_key">Enter your AI API Key</string>
+    <string name="enter_passcode">Enter Passcode</string>
+    <string name="locked_model_hint">Model Selection is locked. Enter passcode to unlock.</string>
+    <string name="logs_title">System Activity Logs</string>
+    <string name="mic_listening">Listening...</string>
+    <string name="mic_tap_to_speak">Tap mic to speak</string>
+    <string name="model_selector_title">Model Selection</string>
+    <string name="model_unlocked">Model selection unlocked successfully!</string>
+    <string name="nav_adb">Set ADB Controller</string>
+    <string name="nav_google">Google Login</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_logs">Logs</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_usage">Usage</string>
+    <string name="passcode_error">Incorrect passcode. Please try again.</string>
+    <string name="passcode_hint">Passcode</string>
+    <string name="prompt_tokens">Prompt Tokens</string>
+    <string name="save_and_connect">Save &amp; Connect</string>
+    <string name="settings_title">Settings</string>
+    <string name="total_requests">Total Requests</string>
+    <string name="total_tokens">Total Tokens Used</string>
+    <string name="unlock">Unlock</string>
+    <string name="unlock_button">Unlock Model Selector</string>
+    <string name="usage_analytics">Usage Analytics</string>
+    <string name="welcome_subtitle">Your AI-Powered Device Assistant</string>
+    <string name="welcome_title">Welcome to GravAssist</string>
+    <style name="Theme.GravAssist" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/accent_primary</item>
+        <item name="colorSecondary">@color/accent_secondary</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+    </style>
+    <style name="Theme.GravAssist.NoActionBar" parent="Theme.GravAssist">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

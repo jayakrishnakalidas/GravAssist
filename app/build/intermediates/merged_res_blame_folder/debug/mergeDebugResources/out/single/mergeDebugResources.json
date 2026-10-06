@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_fragment_usage.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/fragment_usage.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_item_chat_message.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/item_chat_message.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/drawable_shape_dot_green.xml.flat",
+        "source": "com.gravassist.app-main-50:/drawable/shape_dot_green.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/drawable_shape_dot_yellow.xml.flat",
+        "source": "com.gravassist.app-main-50:/drawable/shape_dot_yellow.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/xml_data_extraction_rules.xml.flat",
+        "source": "com.gravassist.app-main-50:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_fragment_google.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/fragment_google.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_nav_header.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/drawable_shape_dot_red.xml.flat",
+        "source": "com.gravassist.app-main-50:/drawable/shape_dot_red.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/menu_drawer_menu.xml.flat",
+        "source": "com.gravassist.app-main-50:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_activity_main.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_activity_api_key.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/activity_api_key.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_fragment_settings.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/xml_backup_rules.xml.flat",
+        "source": "com.gravassist.app-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_item_log_entry.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/item_log_entry.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_fragment_home.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_fragment_logs.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/fragment_logs.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_dialog_unlock_code.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/dialog_unlock_code.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_fragment_adb.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/fragment_adb.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/xml_accessibility_service_config.xml.flat",
+        "source": "com.gravassist.app-main-50:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "com.gravassist.app-debug-48:/layout_fragment_profile.xml.flat",
+        "source": "com.gravassist.app-main-50:/layout/fragment_profile.xml"
+    }
+]
